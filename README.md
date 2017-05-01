@@ -25,7 +25,9 @@ This is the latest version of the DA CLOCK board, a custom ESP8266-based clock w
 |Tinkerman Da Clock WIFI 3.0|[OSH Park](https://oshpark.com/shared_projects/gDLQyM9I)|1|6.57€ <sup>3</sup>|6.57€|
 |Ai-Thinker ESP12F|[Aliexpress](http://s.click.aliexpress.com/e/mUZjemI) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FESP8266-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-Esp-12F-AP-STA-%2F272408386985%3Fhash%3Ditem3f6cce1da9%3Ag%3ArywAAOSwZJBX-7RV)|1|2.10€ <sup>5</sup>|2.10€|
 |AMS1117-3.3|[Aliexpress](http://s.click.aliexpress.com/e/uj6iuNv) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FNew-10pcs-AMS1117-LM1117-3-3V-1A-SOT-223-Voltage-Regulator-NT00206-Ship-Today-%2F112049991237%3Fhash%3Ditem1a16b32e45%3Ag%3AqV8AAOSw14xWNwXc)|1|0.03€ <sup>50</sup>|0.03€|
-|1N4148 SMD Diode|[Aliexpress](http://s.click.aliexpress.com/e/i2nayrB)|1|0.04€ <sup>100</sup>|0.04€|
+|DS1337S|[Aliexpress](http://s.click.aliexpress.com/e/qbaAUr3) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F10-PCS-DS1337S-SOP-8-DS1337-1337-SMD-I2C-Serial-Real-Time-Clock-New-Original-%2F291774646835)|1|0.62€ <sup>10</sup>|0.62€|
+|32KHz crystal|[Aliexpress](http://s.click.aliexpress.com/e/UVrrFmU) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FRALTRON-32-768KHz-Crystal-R38-32-768KHZ-R38-Style-Qty-10-%2F161261371100)|1|0.03€ <sup>50</sup>|0.03€|
+|1N4148 SMD Diode|[Aliexpress](http://s.click.aliexpress.com/e/i2nayrB)|1|0.14€ <sup>10</sup>|0.14€|
 |Buzzer|[Aliexpress](http://s.click.aliexpress.com/e/VbeAu3z) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FNew-10pcs-5v-Active-Buzzer-Continous-Beep-High-quality-The-sound-Alarm-HT00202-%2F281280117872)|1|0.15€<sup>10</sup>|0.15€|
 |S8550 SMD NPN transistor|[Aliexpress](http://s.click.aliexpress.com/e/VZ3FYN7)|2|0.02€<sup>100</sup>|0.04€|
 |100nF 0805 ceramic capacitor||1|0.01€ <sup>100</sup>|0.01€|
@@ -38,7 +40,7 @@ This is the latest version of the DA CLOCK board, a custom ESP8266-based clock w
 |3 position male header||1|0.01€ <sup>100</sup>|0.01€|
 |5 position male header||1|0.01€ <sup>100</sup>|0.01€|
 |Jumper||1|0.01€ <sup>100</sup>|0.01€|
-|**Total**||||9.49€|
+|**Total**||||10.25€|
 
 * (units) Minimum quantity for the stated price.
 * Prices are based on the cheapest option, usually Aliexpress.
