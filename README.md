@@ -5,23 +5,9 @@ The common parts between all these versions are: a microcontroller on board with
 
 Current version is 3.0, based on ESP8266 and DS1337S, also features a buzzer and support for both WS2812 strips/matrices and 5050 "single color" strips.
 
+![DaClock 3.0](/images/20170430_220914s.jpg)
+
 ## Versions
-
-### Version 1.2
-
-![DaClock 1.2 - schema](/images/daclock-1.2-schema.png)
-
-
-![DaClock 1.2 - layout](/images/daclock-1.2-layout.png)
-
-
-### Version 2.1 - WIFI
-
-![DaClock 2.1 - schema](/images/daclock-2.1-schema.png)
-
-
-![DaClock 2.1 - layout](/images/daclock-2.1-layout.png)
-
 
 ### Version 3.0 - WIFI LITE
 
@@ -35,7 +21,7 @@ This is the latest version of the DA CLOCK board, a custom ESP8266-based clock w
 #### Bill of materials for a WS2812-based clock
 
 |Item|Buy|Quantity|CPU <sup>units</sup>|Total|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|
 |Tinkerman Da Clock WIFI 3.0|[OSH Park](https://oshpark.com/shared_projects/gDLQyM9I)|1|6.57€ <sup>3</sup>|6.57€|
 |Ai-Thinker ESP12F|[Aliexpress](http://s.click.aliexpress.com/e/mUZjemI) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FESP8266-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-Esp-12F-AP-STA-%2F272408386985%3Fhash%3Ditem3f6cce1da9%3Ag%3ArywAAOSwZJBX-7RV)|1|2.10€ <sup>5</sup>|2.10€|
 |AMS1117-3.3|[Aliexpress](http://s.click.aliexpress.com/e/uj6iuNv) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FNew-10pcs-AMS1117-LM1117-3-3V-1A-SOT-223-Voltage-Regulator-NT00206-Ship-Today-%2F112049991237%3Fhash%3Ditem1a16b32e45%3Ag%3AqV8AAOSw14xWNwXc)|1|0.03€ <sup>50</sup>|0.03€|
@@ -57,6 +43,22 @@ This is the latest version of the DA CLOCK board, a custom ESP8266-based clock w
 * (units) Minimum quantity for the stated price.
 * Prices are based on the cheapest option, usually Aliexpress.
 * Check the schematic (image or eagle file) for relation between parts and values.
+
+### Version 2.1 - WIFI
+
+![DaClock 2.1 - schema](/images/daclock-2.1-schema.png)
+
+
+![DaClock 2.1 - layout](/images/daclock-2.1-layout.png)
+
+
+### Version 1.2
+
+![DaClock 1.2 - schema](/images/daclock-1.2-schema.png)
+
+
+![DaClock 1.2 - layout](/images/daclock-1.2-layout.png)
+
 
 ## Firmware
 
